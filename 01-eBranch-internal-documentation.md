@@ -1,4 +1,4 @@
-**eBranch Documentation**
+# **eBranch Documentation**
 
 Contents
 
