@@ -1,11 +1,11 @@
 ---
-title: "Swimming in it"
-author: "Jelly Bean"
+title: "eBranch documentation"
+author: "eBranch"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
 ---
 
-# On the road to the Serengeti
+# Let the documentation begin
 
-Onward!
+TOC
