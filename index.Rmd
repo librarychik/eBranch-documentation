@@ -1,6 +1,6 @@
 ---
 title: "eBranch documentation"
-author: "eBranch"
+author: "by the eBranch staff"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
