@@ -1,0 +1,183 @@
+# Details
+Mission Statement:
+==================
+
+A.  We believe Library resources should be as **easy to use** as
+    > possible. We value plain language, simple and intuitive layouts,
+    > and **accessible** tools and resources in every sense of the word.
+
+B.  Our focus is **end users**: students, faculty, staff, SFU
+    > administrators, and the general public. In practice this includes
+    > **supporting web authors** as well.
+
+C.  The eBranch is **an important link between public services and
+    > technical processes**. Some of the partners we work with most
+    > closely:
+
+    -   Public services: Liaison librarians, SLC, RC, L & I, Loans,
+        > Belzberg and Fraser locations.
+
+    -   Management office, including Graphics.
+
+    -   Technical services: Systems, and Collections***.***
+
+What does the eBranch do?
+=========================
+
+The eBranch has overall responsibility for user experience for the
+Library's online presence:
+
+-   Library Search
+
+-   Hours tool
+
+-   Blogs (Feedback and Staff blogs, plus blogs by individual
+    > librarians)
+
+-   Workshops
+
+-   Other miscellaneous pages, such as: Librarian and other Library
+    > Position Openings
+    > ([[http://www.lib.sfu.ca/about/positions]{.underline}](http://www.lib.sfu.ca/about/positions))
+
+The eBranch provides training and support to the Library's authors:
+
+-   Evaluating and recommending improvements (at a high-level and to
+    > individual pages) to increase usability and function, and
+    > implementing the recommended changes.
+
+-   Assisting web authors to create and maintain webpages, online
+    > resources, and posts to the Library webpages and social media.
+
+-   Writing, editing, formatting, and posting items to the Library's
+    > website.
+
+-   Creating and supporting web forms.
+
+The eBranch is the link between public services and Library Systems:
+
+-   Communicating internally to systems if the public cannot access our
+    > services
+
+-   Communicating externally thru News and Events and Notices on the
+    > Home Page
+
+eBranch Knowledge Base & Tools
+==============================
+
+-   Software (e.g. Drupal)
+
+-   Usability and standards
+
+-   Writing for the web
+
+-   Online accessibility
+
+-   Web Authors Guidelines:
+    > [[http://staff.lib.sfu.ca/divisions/ebranch/publishing/writing]{.underline}](http://staff.lib.sfu.ca/divisions/ebranch/publishing/writing)
+
+-   Using Drupal:
+    > [[http://staff.lib.sfu.ca/divisions/ebranch/publishing/drupal]{.underline}](http://staff.lib.sfu.ca/divisions/ebranch/publishing/drupal)
+
+-   eBranch Tools:
+    > [[http://staff.lib.sfu.ca/divisions/ebranch/tools]{.underline}](http://staff.lib.sfu.ca/divisions/ebranch/tools)
+
+    -   must be logged in as an admin to access the content (note that
+        > you will need the public or staff admin login depending on the
+        > location)
+
+-   x: KeePass for passwords and also URLs for web admin functions
+
+eBranch Team Approach
+=====================
+
+-   Our team includes web developers, librarians, UX professionals and a
+    > manager.
+
+-   Information sharing:
+
+    -   Informal and frequent (as-needed) communication
+
+    -   staff web pages
+
+    -   Google Docs (be sure to share your Google ID)
+
+    -   X drive
+
+    -   P Keep: eBranch (less so)
+
+    -   Calendars: eBranch team members share calendars and keep them up
+        > to date
+
+-   Working from home (or off-site): Let manager know and mark in
+    > calendar
+
+Emergency Communication Responsibilities
+========================================
+
+-   **Communicating in emergency situations--- When disaster strikes or
+    > snow procedures**
+
+1.  In the event of an emergency an ADL or the UL will update the public
+    > site's home page with an emergency message using the Emergency
+    > page content type.
+
+2.  **The eBranch is responsible for the** **hours tool reflecting our
+    > hours during an emergency or snow closure. **
+
+3.  **Wait to hear from the UL or an ADL before making changes to the
+    > hours tool** or, if you think it a good idea, adding in an
+    > emergency message. Don't make changes based on what SFU University
+    > Communications states as their messaging can be ambiguous and we
+    > don't wish to erroneously declare a library closed or its hours
+    > truncated.
+
+4.  Whoever sees a communication about changed campus hours first should
+    > make the appropriate changes to the hours tool and let all of us
+    > eBranch staff know that you're doing it so only one person is
+    > updating hours at one time.
+
+-   **Responding to crises---e.g. a bug happens**. We are here to test,
+    > test report, and communicate both ways
+
+1.  Try to replicate the problem
+
+2.  Acknowledge the issue -- let the person know you are going to work
+    > on it. Ask them to step away so that we can work on it (i.e. they
+    > must stop editing the problem page)
+
+3.  Once you have a decent test or understand the problem, report it,
+    > usually to Todd (or Kurt if it's a server issue). When in doubt,
+    > try lib-sys. It is better to report than not to report.
+
+4.  Status updates to the person who initially reported the problem.
+
+5.  Repeat as necessary.
+
+-   **Communicating in emergency situations---e.g. server down**
+
+1.  Wait a couple of minutes. Often the issue is temporary and will fix
+    > itself.
+
+2.  E-mail lib-sys to let them know about the problem. Mark as URGENT.
+
+-   **Communicating in (semi) emergency situations---Library Search,
+    > Catalogue not working**
+
+1.  Create a News & Events item describing the problem, e.g. Library
+    > Search is experiencing difficulties.... \[temporary solution\]...
+    > We are working on the problem." Then select "High Priority" so
+    > that an Attention/warning icon will appear, and the item will stay
+    > at the top of the display. (Sample wording: Library Search
+    > experiencing problems: We are currently having problems with some
+    > functionality in Library Search. We are working to resolve the
+    > issue. If you receive an error message (such as Application Error)
+    > when searching for books, journal articles, or media, you can
+    > still use the [[Library
+    > Catalogue]{.underline}](https://sfu-primo.hosted.exlibrisgroup.com/primo-explore/search?vid=SFUL&sortby=rank)
+    > to find your resources.
+
+2.  If a Multisearch/Library Search problem, go to the Multisearch Admin
+    > Tool (http://search.lib.sfu.ca:8001/)) and select Notices; either
+    > edit an existing notice or add a new one to have it appear
+    > (prominently!) on the Library Search results pages.
