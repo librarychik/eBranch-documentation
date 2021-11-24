@@ -1,0 +1,183 @@
+# Contents
+[Mission Statement:](#mission-statement) **4**
+
+[What does the eBranch do?](#what-does-the-ebranch-do) **4**
+
+[eBranch Knowledge Base & Tools](#ebranch-knowledge-base-tools) **4**
+
+[eBranch Team Approach](#ebranch-team-approach) **5**
+
+[Emergency Communication
+Responsibilities](#emergency-communication-responsibilities) **5**
+
+[Strategies and approaches](#strategies-and-approaches) **6**
+
+> [Handy tips and things to
+> remember](#handy-tips-and-things-to-remember) 6
+>
+> [Updating staff profiles/names](#updating-staff-profilesnames) 6
+
+[Routine eBranch tasks](#routine-ebranch-tasks) **7**
+
+> [MultiSearch / Library Search Admin
+> Tool](#multisearch-library-search-admin-tool) 10
+>
+> [Reserves in Multisearch](#reserves-in-multisearch) 10
+
+[Web authors](#web-authors) **13**
+
+> [Training](#training) 13
+>
+> [Authoring and editing](#authoring-and-editing) 13
+>
+> [Best practices](#best-practices) 15
+>
+> [Types of Web Authors + how we support
+> them](#types-of-web-authors-how-we-support-them) 15
+
+[eBranch superpowers and how to wield them
+wisely](#ebranch-superpowers-and-how-to-wield-them-wisely) **16**
+
+[Drupal: Adding an Advancement / Donate now / Give to the Library
+button](#drupal-adding-an-advancement-donate-now-give-to-the-library-button)
+**24**
+
+[Password / authentication on web
+pages](#password-authentication-on-web-pages) **24**
+
+> [Other odds and ends](#other-odds-and-ends) 26
+
+[Miscellaneous troubles that come up and how to shoot
+them](#miscellaneous-troubles-that-come-up-and-how-to-shoot-them) **26**
+
+> [Vanishing Attachments](#vanishing-attachments) 26
+>
+> [Problems with Godot pages](#problems-with-godot-pages) 27
+>
+> [Problems with CUFTS pages](#problems-with-cufts-pages) 27
+>
+> [Problems with Troy/Millennium
+> pages](#problems-with-troymillennium-pages) 27
+>
+> [Structural changes, like taxonomies and menus, that don't seem to
+> "take"](#structural-changes-like-taxonomies-and-menus-that-dont-seem-to-take)
+> 27
+
+[Digital sign in front door vestibule at Bennett
+Library](#digital-sign-in-front-door-vestibule-at-bennett-library)
+**28**
+
+[New books list](#new-books-list) **28**
+
+[Computer availability tool](#computer-availability-tool) **29**
+
+[Website migration 2015 leftover bits and
+bobs](#website-migration-2015-leftover-bits-and-bobs) **29**
+
+> [Webform data from old site:](#webform-data-from-old-site) 29
+
+[Drupal 8 instructions (staff site)](#drupal-8-instructions-staff-site)
+**29**
+
+> [Location of old and new staff
+> sites](#location-of-old-and-new-staff-sites) 29
+>
+> [Access to the staff site and user account
+> creation](#access-to-the-staff-site-and-user-account-creation) 29
+>
+> [Roles and permissions](#roles-and-permissions) 30
+>
+> [Nightly updates to keep access
+> current](#nightly-updates-to-keep-access-current) 31
+>
+> [Personal SFU computing IDs that don't appear in the staff site's
+> Drupal account
+> list](#personal-sfu-computing-ids-that-dont-appear-in-the-staff-sites-drupal-account-list)
+> 32
+>
+> [Role accounts and the white list](#role-accounts-and-the-white-list)
+> 33
+>
+> [Setting up access for a role
+> account](#setting-up-access-for-a-role-account) 33
+>
+> [Possible user confusion between role accounts and web author
+> accounts](#possible-user-confusion-between-role-accounts-and-web-author-accounts)
+> 33
+>
+> [Creating a local, non-CAS account (an account where there is no SFU
+> Computing
+> ID)](#creating-a-local-non-cas-account-an-account-where-there-is-no-sfu-computing-id)
+> 33
+>
+> [Megamenu](#megamenu) 33
+>
+> [Content types](#content-types) 34
+>
+> [Webforms](#webforms) 34
+>
+> [Incident reports](#incident-reports) 34
+>
+> [Email notifications](#email-notifications) 34
+>
+> [Search index configuration](#search-index-configuration) 35
+>
+> [Search boxes on sets of pages](#search-boxes-on-sets-of-pages) 35
+>
+> [Staff site search statistics in
+> Piwik](#staff-site-search-statistics-in-piwik) 35
+>
+> [Opt for Drupal .html pages over attached files such as .pdf
+> documents](#opt-for-drupal-.html-pages-over-attached-files-such-as-.pdf-documents)
+> 35
+
+[Drupal 7 instructions (public
+site)](#drupal-7-instructions-public-site) **36**
+
+> [Site location](#site-location) 36
+>
+> [Menus](#menus) 36
+>
+> [Menu editing](#menu-editing) 36
+>
+> [Taxonomies](#taxonomies) 37
+>
+> [Contexts](#contexts) 37
+>
+> [Search boxes](#search-boxes) 38
+>
+> [Content types](#content-types-1) 38
+>
+> [Blogs](#blogs) 39
+>
+> [Blog posts](#blog-posts) 39
+>
+> [Blog taxonomy](#blog-taxonomy) 40
+>
+> [Blog roll](#blog-roll) 40
+>
+> [Setting up a new blog](#setting-up-a-new-blog) 40
+>
+> [Contact us](#contact-us) 41
+>
+> [Home pages](#home-pages) 41
+>
+> [News and events and FAQs](#news-and-events-and-faqs) 41
+>
+> [Rotating images](#rotating-images) 41
+>
+> [Forms/ webforms](#forms-webforms) 42
+>
+> [Attached file fields in forms](#attached-file-fields-in-forms) 42
+>
+> [Site-wide webform settings](#site-wide-webform-settings) 42
+>
+> [Image gallery](#image-gallery) 42
+>
+> [FAQs](#faqs) 43
+
+[Systems wiki](#systems-wiki) **43**
+
+**[Personnel and staffing info](#personnel-and-staffing-info) 43**
+
+> [Vacation scheduling](#vacation-scheduling) 43
