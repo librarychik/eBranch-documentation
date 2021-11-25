@@ -1,13 +1,11 @@
-# Details
+# Overview
 ## Mission Statement:
 
 A.  We believe Library resources should be as **easy to use** as possible. We value plain language, simple and intuitive layouts, and **accessible** tools and resources in every sense of the word.
 
 B.  Our focus is **end users**: students, faculty, staff, SFU administrators, and the general public. In practice this includes **supporting web authors** as well.
 
-C.  The eBranch is **an important link between public services and
-    > technical processes**. Some of the partners we work with most
-    > closely:
+C.  The eBranch is **an important link between public services and technical processes**. Some of the partners we work with most closely:
 
     -   Public services: Liaison librarians, SLC, RC, L & I, Loans,
         > Belzberg and Fraser locations.
@@ -16,46 +14,27 @@ C.  The eBranch is **an important link between public services and
 
     -   Technical services: Systems, and Collections***.***
 
-What does the eBranch do?
-=========================
+## What does the eBranch do?
 
 The eBranch has overall responsibility for user experience for the
 Library's online presence:
 
 -   Library Search
-
 -   Hours tool
-
--   Blogs (Feedback and Staff blogs, plus blogs by individual
-    > librarians)
-
+-   Blogs (Feedback and Staff blogs, plus blogs by individual librarians)
 -   Workshops
-
--   Other miscellaneous pages, such as: Librarian and other Library
-    > Position Openings
-    > ([[http://www.lib.sfu.ca/about/positions]{.underline}](http://www.lib.sfu.ca/about/positions))
+-   Other miscellaneous pages, such as: Librarian and other [Library Position Openings](http://www.lib.sfu.ca/about/positions)
 
 The eBranch provides training and support to the Library's authors:
 
--   Evaluating and recommending improvements (at a high-level and to
-    > individual pages) to increase usability and function, and
-    > implementing the recommended changes.
-
--   Assisting web authors to create and maintain webpages, online
-    > resources, and posts to the Library webpages and social media.
-
--   Writing, editing, formatting, and posting items to the Library's
-    > website.
-
+-   Evaluating and recommending improvements (at a high-level and to individual pages) to increase usability and function, and implementing the recommended changes.
+-   Assisting web authors to create and maintain webpages, online resources, and posts to the Library webpages and social media.
+-   Writing, editing, formatting, and posting items to the Library's website.
 -   Creating and supporting web forms.
 
 The eBranch is the link between public services and Library Systems:
-
--   Communicating internally to systems if the public cannot access our
-    > services
-
--   Communicating externally thru News and Events and Notices on the
-    > Home Page
+-   Communicating internally to systems if the public cannot access our services
+-   Communicating externally thru News and Events and Notices on the Home Page
 
 eBranch Knowledge Base & Tools
 ==============================
