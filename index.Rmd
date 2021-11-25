@@ -6,6 +6,6 @@ documentclass: book
 classoption: openany
 ---
 
-# Let the documentation begin
+# This document is meant for SFU Library eBranch staff only
 
-TOC
+
