@@ -1,2 +1,8 @@
 let-the-documentation-begin
 contents
+details
+mission-statement
+what-does-the-ebranch-do
+ebranch-knowledge-base-tools
+ebranch-team-approach
+emergency-communication-responsibilities
