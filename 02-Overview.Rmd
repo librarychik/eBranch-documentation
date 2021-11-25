@@ -1,15 +1,9 @@
 # Details
+## Mission Statement:
 
-Mission Statement:
-==================
+A.  We believe Library resources should be as **easy to use** as possible. We value plain language, simple and intuitive layouts, and **accessible** tools and resources in every sense of the word.
 
-A.  We believe Library resources should be as **easy to use** as
-    > possible. We value plain language, simple and intuitive layouts,
-    > and **accessible** tools and resources in every sense of the word.
-
-B.  Our focus is **end users**: students, faculty, staff, SFU
-    > administrators, and the general public. In practice this includes
-    > **supporting web authors** as well.
+B.  Our focus is **end users**: students, faculty, staff, SFU administrators, and the general public. In practice this includes **supporting web authors** as well.
 
 C.  The eBranch is **an important link between public services and
     > technical processes**. Some of the partners we work with most
