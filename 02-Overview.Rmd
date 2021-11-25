@@ -23,7 +23,7 @@ Library's online presence:
 -   Hours tool
 -   Blogs (Feedback and Staff blogs, plus blogs by individual librarians)
 -   Workshops
--   Other miscellaneous pages, such as: Librarian and other [Library Position Openings](http://www.lib.sfu.ca/about/positions)
+-   Other miscellaneous pages, such as: Librarian and other [Library Position Openings](https://www.lib.sfu.ca/about/overview/employment/librarian-jobs)
 
 The eBranch provides training and support to the Library's authors:
 
@@ -36,8 +36,8 @@ The eBranch is the link between public services and Library Systems:
 -   Communicating internally to systems if the public cannot access our services
 -   Communicating externally thru News and Events and Notices on the Home Page
 
-eBranch Knowledge Base & Tools
-==============================
+## eBranch Knowledge Base & Tools
+
 
 -   Software (e.g. Drupal)
 
@@ -62,8 +62,8 @@ eBranch Knowledge Base & Tools
 
 -   x: KeePass for passwords and also URLs for web admin functions
 
-eBranch Team Approach
-=====================
+## eBranch Team Approach
+
 
 -   Our team includes web developers, librarians, UX professionals and a
     > manager.
@@ -86,8 +86,8 @@ eBranch Team Approach
 -   Working from home (or off-site): Let manager know and mark in
     > calendar
 
-Emergency Communication Responsibilities
-========================================
+## Emergency Communication Responsibilities
+
 
 -   **Communicating in emergency situations--- When disaster strikes or
     > snow procedures**
@@ -147,11 +147,11 @@ Emergency Communication Responsibilities
     > functionality in Library Search. We are working to resolve the
     > issue. If you receive an error message (such as Application Error)
     > when searching for books, journal articles, or media, you can
-    > still use the [[Library
-    > Catalogue]{.underline}](https://sfu-primo.hosted.exlibrisgroup.com/primo-explore/search?vid=SFUL&sortby=rank)
+    > still use the [Library
+    > Catalogue](https://sfu-primo.hosted.exlibrisgroup.com/primo-explore/search?vid=SFUL&sortby=rank)
     > to find your resources.
 
 2.  If a Multisearch/Library Search problem, go to the Multisearch Admin
-    > Tool (http://search.lib.sfu.ca:8001/)) and select Notices; either
+    > Tool and select Notices; either
     > edit an existing notice or add a new one to have it appear
     > (prominently!) on the Library Search results pages.
