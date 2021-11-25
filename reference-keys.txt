@@ -1,4 +1,4 @@
-let-the-documentation-begin
+this-document-is-meant-for-sfu-library-ebranch-staff-only
 contents
 overview
 mission-statement
