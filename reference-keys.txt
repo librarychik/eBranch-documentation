@@ -1,6 +1,6 @@
 let-the-documentation-begin
 contents
-details
+overview
 mission-statement
 what-does-the-ebranch-do
 ebranch-knowledge-base-tools
