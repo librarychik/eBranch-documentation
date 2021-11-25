@@ -1,5 +1,5 @@
 this-document-is-meant-for-sfu-library-ebranch-staff-only
-contents
+table-of-contents
 overview
 mission-statement
 what-does-the-ebranch-do
